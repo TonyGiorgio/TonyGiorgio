@@ -1,16 +1,22 @@
-### Hi there 👋
+Bitcoin / Lightning dev with a focus on privacy
 
-<!--
-**TonyGiorgio/TonyGiorgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PGP key: `F3FE506075BB38F475004F02EA705CE71D0235D8`
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEYgQ/NhYJKwYBBAHaRw8BAQdA+74nO8XpCWt+GVyStgeQdErfLRSpVW20Hnlw
+f/cZmym0N3RvbnlnaW9yZ2lvQHByb3Rvbm1haWwuY29tIDx0b255Z2lvcmdpb0Bw
+cm90b25tYWlsLmNvbT6IjwQQFgoAIAUCYgQ/NgYLCQcIAwIEFQgKAgQWAgEAAhkB
+AhsDAh4BACEJEOpwXOcdAjXYFiEE8/5QYHW7OPR1AE8C6nBc5x0CNdi3owEAgL7c
+UpN7G1dHdcXoq7YKed7frJ6d3+RFjfAa9jC77p8BAI7zuccf+HgCPHclIBC1RFhR
+tO53fX4ZM6+pcSqcKx8GuDgEYgQ/NhIKKwYBBAGXVQEFAQEHQB+jz2b65IF8gvrr
+Ykqob3tuaQXQsPNaUlHkzzw2GIkmAwEIB4h4BBgWCAAJBQJiBD82AhsMACEJEOpw
+XOcdAjXYFiEE8/5QYHW7OPR1AE8C6nBc5x0CNdhJwwD7BAKdQFbiyOMRWzQCpZLr
+19NRDEnU8GkqXahQLZwPqKoA/1ONVKhBlTsfJgnfhAMUQlxhLUcKaWK7U7L9hq64
+OrwP
+=JbGz
+-----END PGP PUBLIC KEY BLOCK-----
+
+```
